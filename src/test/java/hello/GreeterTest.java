@@ -8,7 +8,7 @@ import java.beans.Transient;
 import org.junit.Test;
 
 public class GreeterTest {
-    pricate Greeter greeter = new Greeter();
+    private Greeter greeter = new Greeter();
 
     @Test
     public void greeterSaysHello() {
